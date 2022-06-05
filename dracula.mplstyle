@@ -12,7 +12,8 @@ axes.prop_cycle: cycler('color', ['8be9fd', 'ff79c6', '50fa7b', 'bd93f9', 'ffb86
 xtick.color: F8F8F2
 ytick.color: F8F8F2
 
-legend.framealpha: 0
+legend.framealpha: 0.9
+legend.edgecolor: 44475A
 
 grid.color: F8F8F2
 
