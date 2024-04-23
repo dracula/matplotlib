@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/matplotlib](https://draculath
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/matplotlib/graphs/contributors).
 
-| [![Ellie Clifford](https://github.com/eleanor-clifford.png?size=100)](https://github.com/eleanor-clifford) |
+| [![Eleanor Clifford](https://github.com/eleanor-clifford.png?size=100)](https://github.com/eleanor-clifford) |
 | ------------------------------------------------------------------------------------------------ |
-| [Ellie Clifford](https://github.com/eleanor-clifford)                                                  |
+| [Eleanor Clifford](https://github.com/eleanor-clifford)                                                  |
 
 ## Community
 
